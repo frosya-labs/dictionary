@@ -1,7 +1,7 @@
 {
-    "name": "dpolac/dictionary",
+    "name": "frosya-labs/dictionary",
     "type": "library",
-    "description": "Collection indexed with objects and scalars",
+    "description": "A dpolac/dictionary forked library. Collection indexed with objects and scalars",
     "keywords": [
         "array",
         "dictionary",
